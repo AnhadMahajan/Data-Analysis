@@ -1,5 +1,4 @@
 # Data Analysis Projects 
-
 This repository contains Jupyter notebooks and datasets for various data analysis projects, focusing on box office revenue prediction and IPL score prediction.
 
 ## 📁 Project Structure
